@@ -133,7 +133,7 @@ header nav ul li a
     margin-bottom: 20px;
 }
 
-.button-1
+#btn1
 {
     display: block;
     width: 120px;
@@ -142,12 +142,12 @@ header nav ul li a
     color: #fff;
     font-size: 20px;
     margin: 0 auto;
-    line-height: 50px;
+    line-height: 40px;
     text-align: center;
     border-radius: 3px;
 }
 
-.button-1:hover
+#btn1:hover
 {
     background: #02b8dd;
 }
@@ -248,7 +248,7 @@ article h4
     margin-bottom: 20px;
 }
 
-.button-2
+#btn2
 {
     color: #fff;
     background-color: #ff7a00;
@@ -256,7 +256,7 @@ article h4
     border-radius: 3px;
 }
 
-.button-2:hover
+#btn2:hover
 {
     background-color: #02b8dd;
 }
@@ -302,7 +302,7 @@ input[type="text"]
 }
 
 
-.button-3
+.btn3
 {
     color: #fff;
     font-size: 20px;
@@ -314,7 +314,7 @@ input[type="text"]
 }
 
 
-.button-3:hover
+.btn3:hover
 {
     color: #fff;
     background-color: #444;
